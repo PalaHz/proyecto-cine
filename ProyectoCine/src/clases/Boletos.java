@@ -8,7 +8,6 @@ import java.util.*;
  */
 public class Boletos extends Productos {
     public String ubicacion;
-    public double precioBoleto;
     public String tipoBoleto;
     public Asientos puesto;
 
@@ -17,7 +16,7 @@ public class Boletos extends Productos {
 
     public Boletos(String ubicacion, double precioBoleto, String tipoBoleto) {
         this.ubicacion = ubicacion;
-        this.precioBoleto = precioBoleto;
+        super.precioProducto = precioBoleto;
         this.tipoBoleto = tipoBoleto;
     }
 
@@ -29,12 +28,8 @@ public class Boletos extends Productos {
         this.ubicacion = ubicacion;
     }
 
-    public double getPrecioBoleto() {
-        return precioBoleto;
-    }
-
     public void setPrecioBoleto(double precioBoleto) {
-        this.precioBoleto = precioBoleto;
+        super.precioProducto = precioBoleto;
     }
 
     public String getTipoBoleto() {

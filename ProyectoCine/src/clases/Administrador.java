@@ -7,7 +7,7 @@ public class Administrador extends Persona {
     public String password;
     public String cargo;
     public Cartelera registra;
-    public Administrador() {
+    public Administrador() {    
     }
 
     public Administrador(String user, String password, String cargo, Cartelera registra) {
