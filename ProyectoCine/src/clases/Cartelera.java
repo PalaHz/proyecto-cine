@@ -9,15 +9,13 @@ import java.util.*;
  */
 public class Cartelera {
     public String nombrePelicula;
-    public Date horario;
-    public Administrador administrador;
+    public String horario;
     public Cartelera() {
     }
 
-    public Cartelera(String nombrePelicula, Date horario, Administrador administrador) {
+    public Cartelera(String nombrePelicula, String horario) {
         this.nombrePelicula = nombrePelicula;
         this.horario = horario;
-        this.administrador = administrador;
     }
 
     public String getNombrePelicula() {
@@ -28,20 +26,12 @@ public class Cartelera {
         this.nombrePelicula = nombrePelicula;
     }
 
-    public Date getHorario() {
+    public String getHorario() {
         return horario;
     }
 
-    public void setHorario(Date horario) {
+    public void setHorario(String horario) {
         this.horario = horario;
-    }
-
-    public Administrador getAdministrador() {
-        return administrador;
-    }
-
-    public void setAdministrador(Administrador administrador) {
-        this.administrador = administrador;
     }
 
 

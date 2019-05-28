@@ -46,13 +46,11 @@ public class Principal extends javax.swing.JFrame {
         jButtonRegistrar.setBorderPainted(false);
         getContentPane().add(jButtonRegistrar, new org.netbeans.lib.awtextra.AbsoluteConstraints(680, 120, 130, 30));
 
-        jButtonIniciarSesion.setBackground(new java.awt.Color(255, 255, 255));
+        jButtonIniciarSesion.setBackground(new java.awt.Color(51, 51, 51));
         jButtonIniciarSesion.setFont(new java.awt.Font("Yu Gothic UI", 0, 13)); // NOI18N
-        jButtonIniciarSesion.setForeground(new java.awt.Color(255, 255, 255));
         jButtonIniciarSesion.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/icons/152039-qvadrons/png/user_opt.png"))); // NOI18N
         jButtonIniciarSesion.setText("Iniciar Sesión");
-        jButtonIniciarSesion.setBorderPainted(false);
-        jButtonIniciarSesion.setContentAreaFilled(false);
+        jButtonIniciarSesion.setFocusPainted(false);
         getContentPane().add(jButtonIniciarSesion, new org.netbeans.lib.awtextra.AbsoluteConstraints(680, 70, -1, 30));
 
         jButtonCartelera.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
@@ -67,10 +65,10 @@ public class Principal extends javax.swing.JFrame {
         jButtonPromociones1.setText("Promociones");
         getContentPane().add(jButtonPromociones1, new org.netbeans.lib.awtextra.AbsoluteConstraints(580, 360, 220, 40));
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/principal.jpg"))); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/fondos/principal.jpg"))); // NOI18N
         jLabel2.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
         jLabel2.setOpaque(true);
-        getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, -1));
+        getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 10, -1, -1));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents

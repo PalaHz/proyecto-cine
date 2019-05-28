@@ -10,6 +10,7 @@ public class Boletos extends Productos {
     public String ubicacion;
     public double precioBoleto;
     public String tipoBoleto;
+    public Asientos puesto;
 
     public Boletos() {
     }
