@@ -3,24 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/Logica/LogVendedor.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/clases/Vendedor.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/Logica/Boleto.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/GUI/Login.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/clases/Sugerencias.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/GUI/Cartelera.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/GUI/Principal.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/clases/Productos.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/clases/Consumibles.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/clases/Cartelera.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/Data/Imp_Cli.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/Logica/LogCliente.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/clases/Clientes.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/clases/Administrador.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/Logica/LogFactura.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/clases/Facturas.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/clases/Boletos.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/clases/Asientos.java</file>
+            <file>file:/C:/Users/accel/Desktop/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/Logica/LogAdmin.java</file>
+            <file>file:/C:/Users/accel/Desktop/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/Data/Imp_Vendedor.java</file>
+            <file>file:/C:/Users/accel/Desktop/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/GUI/GUIAdministrador.java</file>
+            <file>file:/C:/Users/accel/Desktop/Proyecto%20Cine/proyecto-cine/ProyectoCine/src/clases/Vendedor.java</file>
         </group>
     </open-files>
 </project-private>

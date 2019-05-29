@@ -1,1 +1,4 @@
-vendedor,vendedor2019,Vendedor de Canguil
+vendedor,vendedor2019,Vendedor de Canguil,Juan,Apellido,100129,
+hgyig,null,igihyg,ighi,igi,gihyih,
+hgyig,null,ighi,igihyg,igi,gihyih,
+hgyig,null,igihyg,ighi,igi,gihyih,
