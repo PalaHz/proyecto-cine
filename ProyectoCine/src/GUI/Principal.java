@@ -32,7 +32,6 @@ public class Principal extends javax.swing.JFrame {
         jButtonCartelera = new javax.swing.JButton();
         jButtonConsumibles = new javax.swing.JButton();
         jButtonPromociones1 = new javax.swing.JButton();
-        jLabel2 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setForeground(java.awt.Color.white);
@@ -64,11 +63,6 @@ public class Principal extends javax.swing.JFrame {
         jButtonPromociones1.setFont(new java.awt.Font("Yu Gothic UI", 0, 24)); // NOI18N
         jButtonPromociones1.setText("Promociones");
         getContentPane().add(jButtonPromociones1, new org.netbeans.lib.awtextra.AbsoluteConstraints(580, 360, 220, 40));
-
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/fondos/principal.jpg"))); // NOI18N
-        jLabel2.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
-        jLabel2.setOpaque(true);
-        getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 10, -1, -1));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
@@ -114,6 +108,5 @@ public class Principal extends javax.swing.JFrame {
     private javax.swing.JButton jButtonIniciarSesion;
     private javax.swing.JButton jButtonPromociones1;
     private javax.swing.JButton jButtonRegistrar;
-    private javax.swing.JLabel jLabel2;
     // End of variables declaration//GEN-END:variables
 }
