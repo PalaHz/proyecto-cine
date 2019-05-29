@@ -27,79 +27,9 @@ public class Cartelera extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        jLabel1 = new javax.swing.JLabel();
-        jLabelPreEs = new javax.swing.JLabel();
-        jLabeEstr = new javax.swing.JLabel();
-        jLabelCarte = new javax.swing.JLabel();
-        jLabel4 = new javax.swing.JLabel();
-        jLabel5 = new javax.swing.JLabel();
-        jLabel6 = new javax.swing.JLabel();
-        jLabel7 = new javax.swing.JLabel();
-        jLabel8 = new javax.swing.JLabel();
-        jLabel9 = new javax.swing.JLabel();
-        jLabel10 = new javax.swing.JLabel();
-        jLabel11 = new javax.swing.JLabel();
-        jLabel12 = new javax.swing.JLabel();
-        jLabel13 = new javax.swing.JLabel();
-
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setMinimumSize(new java.awt.Dimension(900, 700));
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/logo.jpg"))); // NOI18N
-        getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, 160, 90));
-
-        jLabelPreEs.setFont(new java.awt.Font("Tahoma", 0, 27)); // NOI18N
-        jLabelPreEs.setText("Pre-Estreno");
-        getContentPane().add(jLabelPreEs, new org.netbeans.lib.awtextra.AbsoluteConstraints(80, 140, 150, 40));
-
-        jLabeEstr.setFont(new java.awt.Font("Tahoma", 0, 27)); // NOI18N
-        jLabeEstr.setText("Estreno");
-        getContentPane().add(jLabeEstr, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 130, -1, -1));
-
-        jLabelCarte.setFont(new java.awt.Font("Tahoma", 0, 27)); // NOI18N
-        jLabelCarte.setText("Cartelera");
-        getContentPane().add(jLabelCarte, new org.netbeans.lib.awtextra.AbsoluteConstraints(320, 420, -1, -1));
-
-        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/pelicula_ej.jpg"))); // NOI18N
-        jLabel4.setText("jLabel3");
-        getContentPane().add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(620, 210, 120, 170));
-
-        jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/pelicula_ej.jpg"))); // NOI18N
-        jLabel5.setText("jLabel3");
-        getContentPane().add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 200, 120, 170));
-
-        jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/pelicula_ej.jpg"))); // NOI18N
-        jLabel6.setText("jLabel3");
-        getContentPane().add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(720, 470, 120, 170));
-
-        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/pelicula_ej.jpg"))); // NOI18N
-        jLabel7.setText("jLabel3");
-        getContentPane().add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 210, 120, 170));
-
-        jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/pelicula_ej.jpg"))); // NOI18N
-        jLabel8.setText("jLabel3");
-        getContentPane().add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(620, 210, 120, 170));
-
-        jLabel9.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/pelicula_ej.jpg"))); // NOI18N
-        jLabel9.setText("jLabel3");
-        getContentPane().add(jLabel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(340, 210, 120, 170));
-
-        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/pelicula_ej.jpg"))); // NOI18N
-        jLabel10.setText("jLabel3");
-        getContentPane().add(jLabel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 470, 120, 170));
-
-        jLabel11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/pelicula_ej.jpg"))); // NOI18N
-        jLabel11.setText("jLabel3");
-        getContentPane().add(jLabel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 470, 120, 170));
-
-        jLabel12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/pelicula_ej.jpg"))); // NOI18N
-        jLabel12.setText("jLabel3");
-        getContentPane().add(jLabel12, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 470, 120, 170));
-
-        jLabel13.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/pelicula_ej.jpg"))); // NOI18N
-        jLabel13.setText("jLabel3");
-        getContentPane().add(jLabel13, new org.netbeans.lib.awtextra.AbsoluteConstraints(570, 470, 120, 170));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
@@ -140,19 +70,5 @@ public class Cartelera extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JLabel jLabeEstr;
-    private javax.swing.JLabel jLabel1;
-    private javax.swing.JLabel jLabel10;
-    private javax.swing.JLabel jLabel11;
-    private javax.swing.JLabel jLabel12;
-    private javax.swing.JLabel jLabel13;
-    private javax.swing.JLabel jLabel4;
-    private javax.swing.JLabel jLabel5;
-    private javax.swing.JLabel jLabel6;
-    private javax.swing.JLabel jLabel7;
-    private javax.swing.JLabel jLabel8;
-    private javax.swing.JLabel jLabel9;
-    private javax.swing.JLabel jLabelCarte;
-    private javax.swing.JLabel jLabelPreEs;
     // End of variables declaration//GEN-END:variables
 }
